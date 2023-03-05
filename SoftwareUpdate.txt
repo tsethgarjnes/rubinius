@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
