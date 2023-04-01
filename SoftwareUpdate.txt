@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add new YOLOv8 OBB model metrics (#7379)
