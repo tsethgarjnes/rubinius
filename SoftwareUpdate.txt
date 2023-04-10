@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
