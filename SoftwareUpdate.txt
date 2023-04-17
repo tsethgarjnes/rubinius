@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
