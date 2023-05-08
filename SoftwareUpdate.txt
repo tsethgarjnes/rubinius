@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
