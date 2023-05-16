@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
