@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Fix device counting method to account for double-digit device IDs (#8502)
