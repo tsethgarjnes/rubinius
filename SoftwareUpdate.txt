@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add visuals in guides/distance-calculation.md (#7876)
