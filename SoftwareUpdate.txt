@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
