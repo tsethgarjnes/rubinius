@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
