@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix xyxyxyxyn calculation in obb result (#8188)
