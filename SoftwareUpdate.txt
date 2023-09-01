@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Hold failed upload metrics and upload with next upload metrics (#8513)
