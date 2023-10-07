@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add distance calculation feature in vision-eye (#8616)
