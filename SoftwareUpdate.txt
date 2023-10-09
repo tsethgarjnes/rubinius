@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
