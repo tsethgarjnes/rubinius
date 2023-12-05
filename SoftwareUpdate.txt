@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
