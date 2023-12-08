@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
