@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
