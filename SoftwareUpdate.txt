@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix OpenVINO missing batch-size bug (#9264)
