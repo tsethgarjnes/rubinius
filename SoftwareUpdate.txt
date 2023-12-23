@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
