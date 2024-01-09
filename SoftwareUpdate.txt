@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add Weights & Biases Docs integrations page (#7199)
