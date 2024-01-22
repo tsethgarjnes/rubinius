@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix Neural Magic links (#9144)
