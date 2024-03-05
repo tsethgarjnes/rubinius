@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
