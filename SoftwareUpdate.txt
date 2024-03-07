@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add YOLOv8 LibTorch C++ inference example (#7090)
