@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Fix heatmaps width-height order bug (#7184)
