@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
