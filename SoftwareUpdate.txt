@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add visuals in guides/distance-calculation.md (#7876)
