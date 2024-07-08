@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Python refactorings and simplifications (#7549)
