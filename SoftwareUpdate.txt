@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Explorer with LanceDB, Actions and Docs updates (#7487)
