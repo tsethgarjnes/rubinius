@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add docs links to all dataset YAMLs (#7360)
