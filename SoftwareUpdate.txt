@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update neural-magic.md (#7347)
