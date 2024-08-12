@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
