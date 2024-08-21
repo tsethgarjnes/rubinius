@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
