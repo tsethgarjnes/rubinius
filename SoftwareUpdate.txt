@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
