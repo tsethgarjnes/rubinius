@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
