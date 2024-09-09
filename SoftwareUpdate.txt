@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Fix TypeError in check_cfg() (#9245)
