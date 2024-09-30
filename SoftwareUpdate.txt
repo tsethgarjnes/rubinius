@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
