@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Resize angle, count, and stage on keypoint number change (#7598)
